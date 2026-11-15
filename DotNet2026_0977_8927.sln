@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalTest", "DalTest\DalTest.csproj", "{293CEEA3-975C-4C08-8880-0F7C81CB7A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalFacade", "DalFacade\DalFacade.csproj", "{D0A6D214-5277-4F42-9C1E-AEC0625ABA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalList", "DalList\DalList.csproj", "{2DEAC24C-718C-4E53-BE76-E037F0786C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293CEEA3-975C-4C08-8880-0F7C81CB7A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293CEEA3-975C-4C08-8880-0F7C81CB7A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293CEEA3-975C-4C08-8880-0F7C81CB7A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293CEEA3-975C-4C08-8880-0F7C81CB7A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A6D214-5277-4F42-9C1E-AEC0625ABA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A6D214-5277-4F42-9C1E-AEC0625ABA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A6D214-5277-4F42-9C1E-AEC0625ABA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A6D214-5277-4F42-9C1E-AEC0625ABA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEAC24C-718C-4E53-BE76-E037F0786C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEAC24C-718C-4E53-BE76-E037F0786C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEAC24C-718C-4E53-BE76-E037F0786C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEAC24C-718C-4E53-BE76-E037F0786C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9882BF1-10A7-4D71-A563-90B44F62A849}
+	EndGlobalSection
+EndGlobal
